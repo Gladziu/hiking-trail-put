@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Szlak</string>
+    <string name="detail_button"> Szczegóły </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trail_description"> Opis szlaku </string>
+    <string name="stoper_label"> Pomiar czasu </string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="action_activity_title">Action Activity</string>
+    <string name="action_title">Action_Activity</string>
+    <string name="action_share">Share</string>
+    <string name="main_page">Aplikacja poświęcona szlakom turystycznym. Przesuń w lewo, aby zoabczyć więcej!</string>
+
+
+    <string name="home_tab">Strona główna</string>
+    <string name="kat1_tab">Szlaki letnie</string>
+    <string name="kat2_tab">Szlaki zimowe</string>
+
+    <string name="toolbar_label">Szlaki turystycze</string>
+
+</resources>
